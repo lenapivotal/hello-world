@@ -1,4 +1,4 @@
 # hello-world
-My Pivotal hello world
+My Greenplum hello world
 
-Creating new changes to a branch. Still on the easy stuff...   
+Creating changes to a new branch. 
